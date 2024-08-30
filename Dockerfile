@@ -6,7 +6,7 @@ COPY faster.py /app/faster.py
 
 COPY Pipfile /app/Pipfile
 COPY Pipfile.lock /app/Pipfile.lock
-COPY model.py /app/model.py
+COPY model.py /app/Model.py
 COPY iris_model.pkl /app/iris_model.pkl
 
 
